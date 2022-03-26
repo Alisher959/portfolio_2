@@ -1,0 +1,6 @@
+a=int(input('so`m '))
+b=int(input('tiyin '))
+n=int(input('Kg '))
+c=(((a*100)+b)*n)
+print('So`m ',c//100)
+print('Tiyin',c%100)
